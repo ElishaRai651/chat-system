@@ -1,2 +1,2 @@
 # chat-system
-web system to chat with indivisual or group
+web system to chat with indivisual or group 
